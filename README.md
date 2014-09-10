@@ -1,4 +1,4 @@
-common-digital-gates
+Common Digital Gates
 ====================
 
 A collection of common digital gates used in digital designs.
